@@ -14,6 +14,7 @@
 		1E60635D2AFA6736006DDAE9 /* SanatKitabiProjesi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1E60635B2AFA6736006DDAE9 /* SanatKitabiProjesi.xcdatamodeld */; };
 		1E60635F2AFA6737006DDAE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E60635E2AFA6737006DDAE9 /* Assets.xcassets */; };
 		1E6063622AFA6737006DDAE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E6063602AFA6737006DDAE9 /* LaunchScreen.storyboard */; };
+		1E60636A2AFA6DFC006DDAE9 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6063692AFA6DFC006DDAE9 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1E60635E2AFA6737006DDAE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E6063612AFA6737006DDAE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E6063632AFA6737006DDAE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E6063692AFA6DFC006DDAE9 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				1E6063522AFA6736006DDAE9 /* AppDelegate.swift */,
 				1E6063542AFA6736006DDAE9 /* SceneDelegate.swift */,
 				1E6063562AFA6736006DDAE9 /* ViewController.swift */,
+				1E6063692AFA6DFC006DDAE9 /* DetailsVC.swift */,
 				1E6063582AFA6736006DDAE9 /* Main.storyboard */,
 				1E60635E2AFA6737006DDAE9 /* Assets.xcassets */,
 				1E6063602AFA6737006DDAE9 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				1E6063532AFA6736006DDAE9 /* AppDelegate.swift in Sources */,
 				1E60635D2AFA6736006DDAE9 /* SanatKitabiProjesi.xcdatamodeld in Sources */,
 				1E6063552AFA6736006DDAE9 /* SceneDelegate.swift in Sources */,
+				1E60636A2AFA6DFC006DDAE9 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
